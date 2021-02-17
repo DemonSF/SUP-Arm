@@ -98,6 +98,13 @@ disable_technology("defender")                         --капсула с де�
 disable_technology("distractor")
 disable_technology("destroyer")
 disable_technology("artillery")
+disable_technology("follower-robot-count-1")
+disable_technology("follower-robot-count-2")
+disable_technology("follower-robot-count-3")
+disable_technology("follower-robot-count-4")
+disable_technology("follower-robot-count-5")
+disable_technology("follower-robot-count-6")
+disable_technology("follower-robot-count-7")
 
 --логистика
 disable_technology("stack-inserter")
